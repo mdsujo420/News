@@ -1,0 +1,10 @@
+{
+    "site_name": "Adult News Today",
+    "ai_api_key": "AQ.Ab8RN6Kr2NBux_uKE2PL89cP_3dqjyA1h3LFyOIKJQ3T9nRRYg",
+    "topic_prompt": "Write a short, engaging adult entertainment news article including a catchy title and summary. Make it creative and unique.",
+    "ads": {
+        "header_ad": "<div style='color:#ff4d4d; text-align:center;'>[এখানে আপনার হেডার ব্যানার অ্যাড কোড বসান]</div>",
+        "footer_sticky_ad": "<div style='color:#ff4d4d; text-align:center;'>[এখানে আপনার ফিক্সড ফুটার অ্যাড কোড বসান]</div>",
+        "news_card_ad": "<div style='color:#aaa; text-align:center;'>[প্রতিটি নিউজের ভেতরের অ্যাড কোড]</div>"
+    }
+}
