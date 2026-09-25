@@ -2,7 +2,7 @@ name: AI Auto News Poster
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # প্রতি ২ ঘণ্টা পর পর নতুন পোস্ট জেনারেট করবে
+     # প্রতি ২ ঘণ্টা পর পর নতুন পোস্ট জেনারেট করবে
   workflow_dispatch:
 
 jobs:
